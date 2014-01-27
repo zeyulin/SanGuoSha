@@ -1,4 +1,4 @@
-package java.sanguosha.pile;
+package sanguosha.pile;
 
 import java.util.LinkedList;
 

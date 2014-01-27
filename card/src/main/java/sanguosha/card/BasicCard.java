@@ -1,4 +1,4 @@
-package java.sanguosha.card;
+package sanguosha.card;
 
 public class BasicCard extends Card{
     public BasicCard(){

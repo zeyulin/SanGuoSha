@@ -1,7 +1,7 @@
-package java.sanguosha.card;
+package sanguosha.card;
 
 enum Colour{
-    spade,heart,club,diamond
+    SPADE,HEART,CLUB,DIAMOND
 }
 
 enum Category{

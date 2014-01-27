@@ -1,4 +1,4 @@
-package java.sanguosha.card;
+package sanguosha.card;
 
 public class EquipmentCard extends Card{
     public EquipmentCard(){
