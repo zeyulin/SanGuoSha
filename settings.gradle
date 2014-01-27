@@ -2,4 +2,8 @@ rootProject.name='SanGuoSha'
 
 include 'card',
         'general',
-        'player'
+        'player',
+
+        'equipment',
+        'basic',
+        'tip'
