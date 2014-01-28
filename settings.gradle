@@ -6,4 +6,5 @@ include 'card',
 
         'equipment',
         'basic',
-        'tip'
+        'tip',
+        'sanguosha'
